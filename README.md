@@ -1,6 +1,4 @@
 # iconize
-An addon for Android Asset Studio
-
 This is a simple script that copies the launcher icons generated via [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) into your project in a hassle-free way.
 
 ## Usage
