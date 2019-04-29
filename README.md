@@ -6,3 +6,7 @@ The first argument is the generated zip. The second argument is your `res` direc
 ```bash
 $ ./iconize /path/to/ic_launcher.zip /path/to/your/res
 ```
+
+## Unlicense
+
+This script is [unlicensed](https://unlicense.org/). Do whatever you want with it.
